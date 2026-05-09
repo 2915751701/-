@@ -1,0 +1,170 @@
+{
+  "idle": {
+    "frames": [
+      "idle\\000.png",
+      "idle\\001.png",
+      "idle\\002.png",
+      "idle\\003.png",
+      "idle\\004.png",
+      "idle\\005.png"
+    ],
+    "durations": [
+      280,
+      110,
+      110,
+      140,
+      140,
+      320
+    ]
+  },
+  "running-right": {
+    "frames": [
+      "running-right\\000.png",
+      "running-right\\001.png",
+      "running-right\\002.png",
+      "running-right\\003.png",
+      "running-right\\004.png",
+      "running-right\\005.png",
+      "running-right\\006.png",
+      "running-right\\007.png"
+    ],
+    "durations": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      220
+    ]
+  },
+  "running-left": {
+    "frames": [
+      "running-left\\000.png",
+      "running-left\\001.png",
+      "running-left\\002.png",
+      "running-left\\003.png",
+      "running-left\\004.png",
+      "running-left\\005.png",
+      "running-left\\006.png",
+      "running-left\\007.png"
+    ],
+    "durations": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      220
+    ]
+  },
+  "waving": {
+    "frames": [
+      "waving\\000.png",
+      "waving\\001.png",
+      "waving\\002.png",
+      "waving\\003.png"
+    ],
+    "durations": [
+      140,
+      140,
+      140,
+      280
+    ]
+  },
+  "jumping": {
+    "frames": [
+      "jumping\\000.png",
+      "jumping\\001.png",
+      "jumping\\002.png",
+      "jumping\\003.png",
+      "jumping\\004.png"
+    ],
+    "durations": [
+      140,
+      140,
+      140,
+      140,
+      280
+    ]
+  },
+  "failed": {
+    "frames": [
+      "failed\\000.png",
+      "failed\\001.png",
+      "failed\\002.png",
+      "failed\\003.png",
+      "failed\\004.png",
+      "failed\\005.png",
+      "failed\\006.png",
+      "failed\\007.png"
+    ],
+    "durations": [
+      140,
+      140,
+      140,
+      140,
+      140,
+      140,
+      140,
+      240
+    ]
+  },
+  "waiting": {
+    "frames": [
+      "waiting\\000.png",
+      "waiting\\001.png",
+      "waiting\\002.png",
+      "waiting\\003.png",
+      "waiting\\004.png",
+      "waiting\\005.png"
+    ],
+    "durations": [
+      150,
+      150,
+      150,
+      150,
+      150,
+      260
+    ]
+  },
+  "running": {
+    "frames": [
+      "running\\000.png",
+      "running\\001.png",
+      "running\\002.png",
+      "running\\003.png",
+      "running\\004.png",
+      "running\\005.png"
+    ],
+    "durations": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      220
+    ]
+  },
+  "review": {
+    "frames": [
+      "review\\000.png",
+      "review\\001.png",
+      "review\\002.png",
+      "review\\003.png",
+      "review\\004.png",
+      "review\\005.png"
+    ],
+    "durations": [
+      150,
+      150,
+      150,
+      150,
+      150,
+      280
+    ]
+  }
+}
